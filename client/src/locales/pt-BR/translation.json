@@ -1,0 +1,15 @@
+{
+  "title": "Conversor de Extrato Bancário",
+  "description": "Carregue seus PDFs de extratos bancários e converta-os para Excel, CSV ou Texto instantaneamente.",
+  "upload_label": "Carregar Extrato Bancário (PDF)",
+  "output_format_label": "Formato de Saída",
+  "convert_button": "Converter",
+  "processing": "Processando...",
+  "conversion_success": "Conversão bem-sucedida",
+  "download_file": "Baixar Arquivo Convertido",
+  "error_missing_file": "Por favor, selecione um arquivo primeiro.",
+  "language": "Idioma",
+  "english": "Inglês",
+  "portuguese": "Português (Brasil)",
+  "found_transactions": "Encontrado {{count}} transações."
+}

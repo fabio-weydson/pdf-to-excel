@@ -1,0 +1,10 @@
+{
+  "conversion_success": "Conversion successful",
+  "missing_params": "Missing filePath or format",
+  "download_error": "Failed to download file",
+  "upload_error": "Failed to upload converted file",
+  "url_error": "Failed to generate download URL",
+  "no_transactions": "No transactions found or unauthorized format",
+  "invalid_format": "Invalid format",
+  "internal_error": "Internal server error"
+}

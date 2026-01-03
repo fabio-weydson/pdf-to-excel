@@ -1,0 +1,15 @@
+{
+  "title": "Bank Statement Converter",
+  "description": "Upload your PDF bank statements and convert them to Excel, CSV, or Text instantly.",
+  "upload_label": "Upload Bank Statement (PDF)",
+  "output_format_label": "Output Format",
+  "convert_button": "Convert",
+  "processing": "Processing...",
+  "conversion_success": "Conversion successful",
+  "download_file": "Download Converted File",
+  "error_missing_file": "Please select a file first.",
+  "language": "Language",
+  "english": "English",
+  "portuguese": "Portuguese (Brazil)",
+  "found_transactions": "Found {{count}} transactions."
+}
