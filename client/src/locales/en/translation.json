@@ -7,9 +7,22 @@
   "processing": "Processing...",
   "conversion_success": "Conversion successful",
   "download_file": "Download Converted File",
+  "view_result": "View Result",
   "error_missing_file": "Please select a file first.",
   "language": "Language",
   "english": "English",
   "portuguese": "Portuguese (Brazil)",
-  "found_transactions": "Found {{count}} transactions."
+  "found_transactions": "Found {{count}} transactions.",
+  "click_to_upload": "Click to upload",
+  "drag_and_drop": "or drag and drop",
+  "pdf_only": "PDF only",
+  "selected": "Selected",
+  "format_xlsx": "Excel (XLSX)",
+  "format_csv": "CSV",
+  "format_txt": "Text (TXT)",
+  "upload_failed": "Upload failed",
+  "unexpected_error": "An unexpected error occurred",
+  "table_date": "Date",
+  "table_description": "Description",
+  "table_amount": "Amount"
 }

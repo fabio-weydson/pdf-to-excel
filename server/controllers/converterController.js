@@ -94,7 +94,8 @@ export const convertFile = async (req, res) => {
     res.json({
       message: req.t('conversion_success'),
       downloadUrl: signedUrlData.signedUrl,
-      transactionsCount: transactions.length
+      transactionsCount: transactions.length,
+      transactions: transactions
     });
 
   } catch (error) {

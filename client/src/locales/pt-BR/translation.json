@@ -7,9 +7,22 @@
   "processing": "Processando...",
   "conversion_success": "Conversão bem-sucedida",
   "download_file": "Baixar Arquivo Convertido",
+  "view_result": "Ver Resultado",
   "error_missing_file": "Por favor, selecione um arquivo primeiro.",
   "language": "Idioma",
   "english": "Inglês",
   "portuguese": "Português (Brasil)",
-  "found_transactions": "Encontrado {{count}} transações."
+  "found_transactions": "Encontrado {{count}} transações.",
+  "click_to_upload": "Clique para carregar",
+  "drag_and_drop": "ou arraste e solte",
+  "pdf_only": "Apenas PDF",
+  "selected": "Selecionado",
+  "format_xlsx": "Excel (XLSX)",
+  "format_csv": "CSV",
+  "format_txt": "Texto (TXT)",
+  "upload_failed": "Falha no upload",
+  "unexpected_error": "Ocorreu um erro inesperado",
+  "table_date": "Data",
+  "table_description": "Descrição",
+  "table_amount": "Valor"
 }
