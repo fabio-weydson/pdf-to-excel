@@ -24,5 +24,8 @@
   "unexpected_error": "An unexpected error occurred",
   "table_date": "Date",
   "table_description": "Description",
-  "table_amount": "Amount"
+  "table_amount": "Amount",
+  "converter": "Conversor",
+  "about": "Sobre",
+  "features": "Funcionalidades"
 }

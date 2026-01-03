@@ -24,14 +24,14 @@ function App() {
               <path d="M9 2a2 2 0 00-2 2v8a2 2 0 002 2h6a2 2 0 002-2V6.414A2 2 0 0016.414 5L14 2.586A2 2 0 0012.586 2H9z" />
               <path d="M3 8a2 2 0 012-2v10h8a2 2 0 01-2 2H5a2 2 0 01-2-2V8z" />
             </svg>
-            <span>PDF Converter</span>
+            <span>{t('title')}</span>
           </div>
           
           <nav className="hidden md:flex items-center gap-6 text-sm font-medium text-gray-500">
             <a href="#" className="text-blue-700 font-semibold">{t('convert_button')}</a>
-            <a href="#" className="hover:text-blue-900 transition-colors uppercase tracking-wider text-xs">History</a>
-            <a href="#" className="hover:text-blue-900 transition-colors uppercase tracking-wider text-xs">Features</a>
-            <a href="#" className="hover:text-blue-900 transition-colors uppercase tracking-wider text-xs">About</a>
+            <a href="#" className="hover:text-blue-900 transition-colors uppercase tracking-wider text-xs">{t('history')}</a>
+            <a href="#" className="hover:text-blue-900 transition-colors uppercase tracking-wider text-xs">{t('features')}</a>
+            <a href="#" className="hover:text-blue-900 transition-colors uppercase tracking-wider text-xs">{t('about')}</a>
           </nav>
         </div>
 
